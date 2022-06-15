@@ -1,0 +1,5 @@
+name: DNDClothesAPI
+version: '${project.version}'
+main: com.lighty.dndclothesapi.DNDClothesAPI
+api-version: 1.17
+authors: [ Lighty ]
